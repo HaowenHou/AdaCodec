@@ -99,11 +99,11 @@ Stable MLVU anomaly videos sustain longer groups of pictures, helping AdaCodec p
 ## Citation
 
 ```bibtex
-@misc{adacodec2026,
-  title        = {AdaCodec: A Predictive Visual Code for Video MLLMs},
-  author       = {Hou, Haowen and Huang, Zhen and Liang, Zheming and Si, Qingyi and Li, Chenglin and Dong, Shuai and Shao, Kele and Li, Ruilin and Wang, Dianyi and Duan, Nan and Wang, Jiaqi},
-  year         = {2026},
-  note         = {Preprint}
+@article{hou2026adacodec,
+  title={AdaCodec: A Predictive Visual Code for Video MLLMs},
+  author={Hou, Haowen and Huang, Zhen and Liang, Zheming and Si, Qingyi and Li, Chenglin and Dong, Shuai and Shao, Kele and Li, Ruilin and Wang, Dianyi and Duan, Nan and Wang, Jiaqi},
+  journal={arXiv preprint arXiv:2606.02569},
+  year={2026}
 }
 ```
 
