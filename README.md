@@ -27,6 +27,10 @@
   <strong>Code: coming soon</strong>
 </p>
 
+<p align="center">
+  🔥 <strong>AdaCodec is used in <a href="https://joyai-vl-video-future-academy-jd.github.io/JoyAI-VL-Interaction/">JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence</a>, whose code, models, and data will all be open-sourced.</strong>
+</p>
+
 > This repository is a public placeholder for the AdaCodec code release. It currently contains project information and figures only.
 
 ![AdaCodec teaser](assets/images/teaser.webp)
